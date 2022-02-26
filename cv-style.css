@@ -1,0 +1,80 @@
+article {
+	background-color: #1E2745;
+	border-radius: 0.750em;
+}
+article h1 {
+	font-size: 2.125em;
+	font-weight: 700;
+}
+article h2 {
+	font-size: 1.750em;
+	font-weight: 700;
+	padding-bottom: 0.500em;
+	border-bottom: 0.050em solid rgba(210, 210, 215, 0.5);;
+	margin-top: 1.250em;
+}
+article h3 {
+	font-size: 1.563em;
+	margin-top: 2em;
+}
+.content ul li {
+	font-size: 1.250em;
+	line-height: 2.063em;
+}
+.content ul {
+	padding-left: 3.125em;
+	margin-top: 0.750em;
+}
+.content {
+	padding: 1em;
+}
+
+/* CV Menu Style Start */
+#cv-nav {
+	color: #D2D2D7;
+	width: 80%;
+	border: 0.050em solid rgba(210, 210, 215, 0.5);
+	border-radius: 1.063em;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	margin-bottom: 1.875em;
+}
+#cv-nav-header {
+	text-align: center;
+	list-style: none;
+	font-weight: 700;
+	font-size: 1.250em;
+	background-color: #3E65FB;
+	border-radius: 0.750em 0.750em 0 0;
+	padding: 0.625em;
+}
+#cv-nav span {
+	padding-left: 0.500em;
+}
+#cv-nav a {
+	color: #D2D2D7;
+	list-style: none;
+	font-size: 1.063em;
+	font-weight: 700;
+	padding: 0.500em;
+	display: block;
+	text-decoration: none;
+	border-bottom: 0.050em solid rgba(210, 210, 215, 0.5);
+	margin: 0;
+}
+#cv-nav a:hover {
+	color: #3E65FB;
+}
+#cv-nav ul li {
+	list-style: none;
+}
+#cv-inner-ul{
+	border: none;
+	list-style: none;
+}
+#cv-inner-ul a {
+	padding-left: 1.250em;
+	font-weight: 400;
+}
+/* CV Menu Style End */
