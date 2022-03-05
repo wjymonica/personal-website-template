@@ -6,5 +6,5 @@ A academic and personal website template with simple design, wich is released un
 
 ### People use this template
 ---
-- [Atilla Asghari](https://atillaasghari.ir)
+- [Atilla Asghari](https://atillaasghari.ir/modern)
  
